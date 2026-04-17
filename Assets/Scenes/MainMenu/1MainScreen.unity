@@ -445,10 +445,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 621214355}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a0e63e6af4aabf4488dfc49b08d6fd63, type: 3}
+  m_Script: {fileID: 11500000, guid: e24bebdf2264d0247bbc61ddfe1dcca9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: Settings
+  sceneName: 2Settings
 --- !u!4 &621214357
 Transform:
   m_ObjectHideFlags: 0
@@ -1178,9 +1178,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 621214356}
+      - m_Target: {fileID: 621214355}
         m_TargetAssemblyTypeName: LevelManager, Assembly-CSharp
-        m_MethodName: changeScene
+        m_MethodName: 
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
