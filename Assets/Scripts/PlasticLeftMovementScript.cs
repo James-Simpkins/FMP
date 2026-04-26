@@ -3,7 +3,7 @@ using UnityEngine;
 public class PlasticLeftMovementScript : MonoBehaviour
 {
     // Speed of movement
-    public float speed = 1f;
+    public int speed = 1;
 
     void Update()
     {

@@ -5,7 +5,7 @@ public class PlasticSpawnerScript : MonoBehaviour
     // Made public so that these can be changed from within Unity.
     [Header("Plastic Spawner")]
     public GameObject prefabToSpawn;
-    public float spawnInterval = 2f;
+    public int spawnInterval = 2;
 
     // The below code is for a timer on how long it should take to spawn each prefab, the timer is also made public so that it can be be adjusted from within Unity.
     private float timer;
