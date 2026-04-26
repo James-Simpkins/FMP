@@ -131,6 +131,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: LeftPlasticSpawner3
       objectReference: {fileID: 0}
+    - target: {fileID: 3137271769825322475, guid: 3959064620b2248489532d20bede3d92, type: 3}
+      propertyPath: spawnInterval
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 3612314676594892363, guid: 3959064620b2248489532d20bede3d92, type: 3}
       propertyPath: m_LocalScale.x
       value: 5
@@ -426,7 +430,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3137271769825322475, guid: a997e42b9a8cd734fbba60db4b43764f, type: 3}
       propertyPath: spawnInterval
-      value: 9
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 3612314676594892363, guid: a997e42b9a8cd734fbba60db4b43764f, type: 3}
       propertyPath: m_LocalScale.x
@@ -504,7 +508,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3137271769825322475, guid: 3959064620b2248489532d20bede3d92, type: 3}
       propertyPath: spawnInterval
-      value: 9
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 3612314676594892363, guid: 3959064620b2248489532d20bede3d92, type: 3}
       propertyPath: m_LocalScale.x
@@ -580,6 +584,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: RightPlasticSpawner2
       objectReference: {fileID: 0}
+    - target: {fileID: 3137271769825322475, guid: a997e42b9a8cd734fbba60db4b43764f, type: 3}
+      propertyPath: spawnInterval
+      value: 12
+      objectReference: {fileID: 0}
     - target: {fileID: 3612314676594892363, guid: a997e42b9a8cd734fbba60db4b43764f, type: 3}
       propertyPath: m_LocalScale.x
       value: 5
@@ -653,6 +661,10 @@ PrefabInstance:
     - target: {fileID: 1544027370585842386, guid: 3959064620b2248489532d20bede3d92, type: 3}
       propertyPath: m_Name
       value: LeftPlasticSpawner1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3137271769825322475, guid: 3959064620b2248489532d20bede3d92, type: 3}
+      propertyPath: spawnInterval
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 3612314676594892363, guid: 3959064620b2248489532d20bede3d92, type: 3}
       propertyPath: m_LocalScale.x
