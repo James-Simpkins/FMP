@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      plastic-jug_0: -4943408460290348110
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
