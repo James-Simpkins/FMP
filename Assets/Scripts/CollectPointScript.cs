@@ -2,8 +2,6 @@ using UnityEngine;
 
 public class CollectPointScript : MonoBehaviour
 {
-    [SerializeField] float rotationSpeed = 2f; // Needed? Unity Editor 6000.0.37f1 displays a warning says it is never used.
-
     [SerializeField] AudioSource audioSource;
 
     // Update is called once per frame
