@@ -11,5 +11,6 @@ public class ScoreManagerScript : MonoBehaviour
     {
         scoreCount++; // Add a point to the score.
         scoreText.text = "Score: " + scoreCount.ToString(); // Set TestMeshPro to say 'Score: ', followed by the score.
+        GetComponent<AudioSource>().Play(); // Connect the script to the Audio Source component of the GameObject this script is attached to.
     }
 }
