@@ -5,8 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class SceneManagerScript : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    public string sceneName;
+    public string sceneName; // Declare sceneName as a public string variable, so that it can set to different scenes in Unity Editor.
 
     public void changeScene()
     {

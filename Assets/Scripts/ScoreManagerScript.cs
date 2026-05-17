@@ -5,7 +5,7 @@ using UnityEngine.Rendering;
 public class ScoreManagerScript : MonoBehaviour
 {
     public TMP_Text scoreText;
-    private int scoreCount = 0;
+    private int scoreCount = 0; // Start with the score initially being zero as the player does not have any points.
 
     public void AddPoint()
     {
