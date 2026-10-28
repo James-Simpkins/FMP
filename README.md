@@ -12,7 +12,8 @@
 
 <h2>Asset table</h2>
 <p>The extra text above the table is only there because I have taken these screenshots from my Year 1 Final Major Project website.</p>
-<!-- Asset table screenshots are in the next commit. -->
+<img src="Images/Asset_table_(1_of_2).png"></img>
+<img src="Images/Asset_table_(2_of_2).png"></img>
 
 <h2>Note about the above links</h2>
 <p>This README file was last updated on the 28th of October 2026, if the links above aren't working, then they may have been taken down (though my website I made should still be fine if Wix still exists). I did create my Wix account using my College email address, but I'll change it to my personal one before I leave College.</p>
